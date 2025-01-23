@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    justify-content: center;
+    content: normal;
+    color: blueviolet;
+    
+}
+
+.container {
+    border-width: 3px;
+    border-style: solid;
+    color: rgb(21, 255, 0);
+    margin: auto;
+    border-color: black;
+}

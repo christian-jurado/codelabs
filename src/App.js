@@ -1,10 +1,10 @@
 import './App.css';
+import Mensaje from './Mensaje';
 
 const App = () => {
-    const mensaje = "Hola Mundo"
     return (
         <div className="App">
-            {mensaje}
+            <Mensaje />
         </div>
     )
 }
